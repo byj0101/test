@@ -2,7 +2,7 @@ var express = require ('express');
 
 var app = express();
 
-var port = 8080 || process.env.PORT;
+var port = 80 || process.env.PORT;
 console.log(1);
 console.log(2);
 
